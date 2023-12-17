@@ -66,8 +66,8 @@ The solution PR should consist of the following:
 
 ### Installation
 
-Insert your installation instructions here.
+1) Run the following command: 'python3 setup.py install --user'
 
 ### Execution
 
-Insert your execution instructions here.
+1) Run the following command: 'python3 eCar.py'
